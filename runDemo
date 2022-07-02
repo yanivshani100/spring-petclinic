@@ -1,0 +1,5 @@
+cd lightrun/athena-dev/demo/prime-app/
+java -agentpath:/Users/yanivshani/agent/agent/lightrun_agent.so -jar target/*.jar &
+
+
+
